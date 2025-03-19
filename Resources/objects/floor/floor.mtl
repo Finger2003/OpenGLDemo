@@ -1,0 +1,14 @@
+# Material for the floor
+newmtl floor_material
+
+# Diffuse texture
+map_Kd diffuse.png
+# Specular texture
+map_Ks specular.png
+# Ambient texture
+map_Ka ambient.png
+# Emissive texture
+map_Ke emissive.png
+# Shininess map
+map_Ns shininess.png
+

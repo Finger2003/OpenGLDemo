@@ -1,0 +1,42 @@
+# Blender 4.3.2 MTL File: 'star wars free buiding H_L.blend'
+# www.blender.org
+
+newmtl buiding
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Ka ambient.png
+map_Ke emissive.png
+map_Kd star wars free buiding bake 2_buiding_BaseColor.jpg
+map_Ns star wars free buiding bake 2_buiding_Roughness.jpg
+map_Ks star wars free buiding bake 2_buiding_Metallic.jpg
+
+
+newmtl sheet
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Ka ambient.png
+map_Ke emissive.png
+map_Kd star wars free buiding low_sheet_BaseColor.jpg
+map_Ns star wars free buiding low_sheet_Roughness.jpg
+map_Ks star wars free buiding low_sheet_Metallic.jpg
+
+newmtl steel
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Ka ambient.png
+map_Ke emissive.png
+map_Kd star wars free buiding bake 2_steel_BaseColor.jpg
+map_Ns star wars free buiding bake 2_steel_Roughness.jpg
+map_Ks star wars free buiding bake 2_steel_Metallic.jpg
